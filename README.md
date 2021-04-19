@@ -1,1 +1,1 @@
-# ArcoLinux gtk3 sardi
+# ArcoLinux gtk3 sardi arc
